@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\pja\\lato_23_24\\apbd\\ćwiczenia\\4\\zadanie\\zadanie\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
+      "projectUniqueName": "D:\\pja\\lato_23_24\\apbd\\ćwiczenia\\4\\zadanie\\Cwiczenia_4\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
       "projectName": "LegacyAppConsumer",
-      "projectPath": "D:\\pja\\lato_23_24\\apbd\\ćwiczenia\\4\\zadanie\\zadanie\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
+      "projectPath": "D:\\pja\\lato_23_24\\apbd\\ćwiczenia\\4\\zadanie\\Cwiczenia_4\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
       "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-      "outputPath": "D:\\pja\\lato_23_24\\apbd\\ćwiczenia\\4\\zadanie\\zadanie\\LegacyAppConsumer\\obj\\",
+      "outputPath": "D:\\pja\\lato_23_24\\apbd\\ćwiczenia\\4\\zadanie\\Cwiczenia_4\\LegacyAppConsumer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\pja\\lato_23_24\\apbd\\ćwiczenia\\4\\zadanie\\zadanie\\LegacyApp\\LegacyApp.csproj": {
-              "projectPath": "D:\\pja\\lato_23_24\\apbd\\ćwiczenia\\4\\zadanie\\zadanie\\LegacyApp\\LegacyApp.csproj"
+            "D:\\pja\\lato_23_24\\apbd\\ćwiczenia\\4\\zadanie\\Cwiczenia_4\\LegacyApp\\LegacyApp.csproj": {
+              "projectPath": "D:\\pja\\lato_23_24\\apbd\\ćwiczenia\\4\\zadanie\\Cwiczenia_4\\LegacyApp\\LegacyApp.csproj"
             }
           }
         }

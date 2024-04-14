@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ydEXZKd+zAGHp3UFno/oeFY9in8KchXhfqV7kaE1x1GYUKZCYzEkAqya23xuF4gFM2IVo5jwETfkRRwjfEnBLQ==",
+  "dgSpecHash": "VH5f/tURWQPcstITVJ3zeiCiaC3iQmQmucQzlPFm4RCrxni2tvA2e2GHn73ZuKpXHjnfK1nBN/98e0fEXdagpg==",
   "success": true,
-  "projectFilePath": "D:\\pja\\lato_23_24\\apbd\\ćwiczenia\\4\\zadanie\\zadanie\\LegacyAppTests\\LegacyAppTests.csproj",
+  "projectFilePath": "D:\\pja\\lato_23_24\\apbd\\ćwiczenia\\4\\zadanie\\Cwiczenia_4\\LegacyAppTests\\LegacyAppTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\filip\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\filip\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

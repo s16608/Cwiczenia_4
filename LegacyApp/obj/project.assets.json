@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\pja\\lato_23_24\\apbd\\ćwiczenia\\4\\zadanie\\zadanie\\LegacyApp\\LegacyApp.csproj",
+      "projectUniqueName": "D:\\pja\\lato_23_24\\apbd\\ćwiczenia\\4\\zadanie\\Cwiczenia_4\\LegacyApp\\LegacyApp.csproj",
       "projectName": "LegacyApp",
-      "projectPath": "D:\\pja\\lato_23_24\\apbd\\ćwiczenia\\4\\zadanie\\zadanie\\LegacyApp\\LegacyApp.csproj",
+      "projectPath": "D:\\pja\\lato_23_24\\apbd\\ćwiczenia\\4\\zadanie\\Cwiczenia_4\\LegacyApp\\LegacyApp.csproj",
       "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-      "outputPath": "D:\\pja\\lato_23_24\\apbd\\ćwiczenia\\4\\zadanie\\zadanie\\LegacyApp\\obj\\",
+      "outputPath": "D:\\pja\\lato_23_24\\apbd\\ćwiczenia\\4\\zadanie\\Cwiczenia_4\\LegacyApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config"

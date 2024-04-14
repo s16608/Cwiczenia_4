@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading;
+using LegacyApp.Interfaces;
 
 namespace LegacyApp
 {
-    public class ClientRepository
+    public class ClientRepository : IClientRepository
     {
         /// <summary>
         /// This collection is used to simulate remote database
